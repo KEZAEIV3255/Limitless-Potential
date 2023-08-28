@@ -1,0 +1,307 @@
+// SVEN CO-OP SPEECH SYSTEM SENTENCES - DON'T MODIFY THIS - Max of 2048 sentences.
+
+// NEW SVENCOOP MONSTERS
+
+// ROBOT GRUNTS
+
+RB_GREN0 kezaeiv/sentences/marv/marv_retreating
+RB_GREN1 kezaeiv/sentences/marv/marv_pullingback
+
+RB_ALERT0 kezaeiv/sentences/marv/marv_assaultiniciated
+RB_ALERT1 kezaeiv/sentences/marv/marv_crushthem
+
+RB_MONST0 kezaeiv/sentences/marv/marv_tiberium
+RB_MONST1 kezaeiv/sentences/marv/marv_theearthwill
+RB_MONST2 kezaeiv/sentences/marv/marv_globaldefense
+
+RB_COVER0 kezaeiv/sentences/marv/marv_heavyfire
+RB_COVER1 kezaeiv/sentences/marv/marv_overwhelming
+RB_THROW0 kezaeiv/sentences/marv/marv_deployingarmaments
+RB_THROW0 kezaeiv/sentences/marv/marv_fullpower
+
+RB_TAUNT0 kezaeiv/sentences/marv/marv_reclamationinprogress2
+RB_TAUNT1 kezaeiv/sentences/marv/marv_reclamationops
+
+RB_CHARGE0 kezaeiv/sentences/marv/marv_onroute
+RB_CHARGE1 kezaeiv/sentences/marv/marv_assaultvectoralpha
+RB_CHARGE1 kezaeiv/sentences/marv/marv_emmiterscharged
+
+RB_QUEST0 kezaeiv/sentences/marv/marv_takebacktheplanet
+RB_QUEST1 kezaeiv/sentences/marv/marv_sizematters
+RB_ANSWER0 kezaeiv/sentences/marv/marv_what
+RB_ANSWER1 kezaeiv/sentences/marv/marv_marv
+
+RB_CHECK0 kezaeiv/sentences/marv/marv_readytoroll
+RB_CHECK1 kezaeiv/sentences/marv/marv_watchingmy6
+RB_CHECK2 kezaeiv/sentences/marv/marv_bigguns
+
+RB_CLEAR0 kezaeiv/sentences/marv/marv_readytodeploy
+RB_CLEAR1 kezaeiv/sentences/marv/marv_fearless
+RB_CLEAR2 kezaeiv/sentences/marv/marv_online
+
+RB_IDLE0 kezaeiv/sentences/marv/marv_systemsonline
+RB_IDLE1 kezaeiv/sentences/marv/marv_systemsengaged
+RB_IDLE2 kezaeiv/sentences/marv/marv_revisingdeployment
+RB_IDLE3 kezaeiv/sentences/marv/marv_refactoring
+
+
+// HUMAN GRUNTS
+HG_GREN0 kezaeiv/sentences/zt_weareout
+HG_GREN1 kezaeiv/sentences/zt_timetogo
+HG_GREN2 kezaeiv/sentences/zt_letsgo2
+HG_GREN3 kezaeiv/sentences/zt_itsnotuse
+HG_GREN4 kezaeiv/sentences/zt_weareout
+HG_GREN5 kezaeiv/sentences/zt_letsgo2
+HG_GREN6 kezaeiv/sentences/zt_itsnotuse
+
+// Player Alert
+HG_ALERT0 kezaeiv/sentences/zonetrooper/zt_pinemdown
+HG_ALERT1 kezaeiv/sentences/zonetrooper/zt_shutthisparty
+HG_ALERT2 kezaeiv/sentences/zonetrooper/zt_takeem
+HG_ALERT3 kezaeiv/sentences/zonetrooper/zt_hitit
+HG_ALERT4 kezaeiv/sentences/zonetrooper/zt_punchit
+HG_ALERT5 kezaeiv/sentences/zonetrooper/zt_wantmore
+HG_ALERT6 kezaeiv/sentences/zonetrooper/zt_haveatit
+
+// Monster Alert
+HG_MONST0 kezaeiv/sentences/zonetrooper/zt_readyforaction
+HG_MONST1 kezaeiv/sentences/zonetrooper/zt_wegotthisone
+HG_MONST2 kezaeiv/sentences/zonetrooper/zt_undercontrol
+HG_MONST3 kezaeiv/sentences/zonetrooper/zt_keepem
+
+// Take cover
+HG_COVER0 kezaeiv/sentences/zonetrooper/zt_sittight
+HG_COVER1 kezaeiv/sentences/zonetrooper/zt_letsgetover
+HG_COVER2 kezaeiv/sentences/zonetrooper/zt_letsgo2
+HG_COVER3 kezaeiv/sentences/zonetrooper/zt_weareout
+HG_COVER4 kezaeiv/sentences/zonetrooper/zt_timetogo
+HG_COVER5 kezaeiv/sentences/zonetrooper/zt_letsgo2
+HG_COVER6 kezaeiv/sentences/zonetrooper/zt_timetogo
+HG_COVER7 kezaeiv/sentences/zonetrooper/zt_weareout
+
+// Throw grenade
+HG_THROW0 kezaeiv/sentences/zonetrooper/zt_havesomeofthis
+HG_THROW1 kezaeiv/sentences/zonetrooper/zt_gotaload
+HG_THROW2 kezaeiv/sentences/zonetrooper/zt_havesomeofthis
+HG_THROW3 kezaeiv/sentences/zonetrooper/zt_gotaload
+
+// Taunt
+HG_TAUNT0 kezaeiv/sentences/zonetrooper/zt_overez
+HG_TAUNT1 kezaeiv/sentences/zonetrooper/zt_wantmore
+HG_TAUNT2 kezaeiv/sentences/zonetrooper/zt_ohyeah
+HG_TAUNT3 kezaeiv/sentences/zonetrooper/zt_shutthisparty
+HG_TAUNT4 kezaeiv/sentences/zonetrooper/zt_getgotthis
+HG_TAUNT5 kezaeiv/sentences/zonetrooper/zt_shutthisparty
+
+// Charge
+HG_CHARGE0 kezaeiv/sentences/zonetrooper/zt_goingin
+HG_CHARGE1 kezaeiv/sentences/zonetrooper/zt_letsgo
+HG_CHARGE2 kezaeiv/sentences/zonetrooper/zt_letsmove
+HG_CHARGE3 kezaeiv/sentences/zonetrooper/zt_movein
+
+// Idle
+HG_IDLE0 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_IDLE1 kezaeiv/sentences/zonetrooper/zt_troopersinthefield
+HG_IDLE2 kezaeiv/sentences/zonetrooper/zt_mhmm
+
+HG_QUEST0 kezaeiv/sentences/zonetrooper/zt_youknow
+HG_QUEST1 kezaeiv/sentences/zonetrooper/zt_whatsthecall
+HG_QUEST2 kezaeiv/sentences/zonetrooper/zt_whatsthecall
+HG_QUEST3 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_QUEST4 kezaeiv/sentences/zonetrooper/zt_youknow
+HG_QUEST5 kezaeiv/sentences/zonetrooper/zt_youknow
+HG_QUEST6 kezaeiv/sentences/zonetrooper/zt_troopersinthefield
+HG_QUEST7 kezaeiv/sentences/zonetrooper/zt_troopersinthefield
+HG_QUEST8 kezaeiv/sentences/zonetrooper/zt_whatyouneed
+HG_QUEST9 kezaeiv/sentences/zonetrooper/zt_whatyouneed
+HG_QUEST10 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_QUEST11 kezaeiv/sentences/zonetrooper/zt_whatsthecall
+
+HG_ANSWER0 kezaeiv/sentences/zonetrooper/zt_letsdoit
+HG_ANSWER1 kezaeiv/sentences/zonetrooper/zt_gotem
+HG_ANSWER2 kezaeiv/sentences/zonetrooper/zt_gotit
+HG_ANSWER3 kezaeiv/sentences/zonetrooper/zt_illcheckit
+HG_ANSWER4 kezaeiv/sentences/zonetrooper/zt_thatsright
+HG_ANSWER5 kezaeiv/sentences/zonetrooper/zt_wearehere
+HG_ANSWER6 kezaeiv/sentences/zonetrooper/zt_thatsright
+
+HG_CLEAR0 kezaeiv/sentences/zonetrooper/zt_readyforaction
+HG_CLEAR1 kezaeiv/sentences/zonetrooper/zt_mhmm
+HG_CLEAR2 kezaeiv/sentences/zonetrooper/zt_sittight
+HG_CLEAR3 kezaeiv/sentences/zonetrooper/zt_wehearya
+HG_CLEAR4 kezaeiv/sentences/zonetrooper/zt_mhmm
+HG_CLEAR5 kezaeiv/sentences/zonetrooper/zt_sittight
+HG_CLEAR6 kezaeiv/sentences/zonetrooper/zt_wehearya
+HG_CLEAR7 kezaeiv/sentences/zonetrooper/zt_troopersinthefield
+HG_CLEAR8 kezaeiv/sentences/zonetrooper/zt_mhmm
+HG_CLEAR9 kezaeiv/sentences/zonetrooper/zt_undercontrol
+HG_CLEAR10 kezaeiv/sentences/zonetrooper/zt_troopersinthefield
+HG_CLEAR11 kezaeiv/sentences/zonetrooper/zt_wehearya
+HG_CLEAR12 kezaeiv/sentences/zonetrooper/zt_undercontrol
+
+HG_CHECK0 kezaeiv/sentences/zonetrooper/zt_aliveandready
+HG_CHECK1 kezaeiv/sentences/zonetrooper/zt_whatsthecall
+HG_CHECK2 kezaeiv/sentences/zonetrooper/zt_whatyouneed
+HG_CHECK3 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_CHECK4 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_CHECK5 kezaeiv/sentences/zonetrooper/zt_whatsthecall
+HG_CHECK6 kezaeiv/sentences/zonetrooper/zt_troopersquad
+HG_CHECK7 kezaeiv/sentences/zonetrooper/zt_aliveandready
+
+
+// medical
+HEV_DEAD0 kezaeiv/singularity/player/death
+HEV_DEAD1 kezaeiv/singularity/player/(p85) death
+HEV_DEAD2 kezaeiv/singularity/player/(p90) death
+HEV_DEAD3 kezaeiv/singularity/player/(p95) death
+HEV_DEAD4 kezaeiv/singularity/player/(p105) death
+HEV_DEAD5 kezaeiv/singularity/player/(p110) death
+HEV_DEAD6 kezaeiv/singularity/player/(p115) death
+
+
+// BARNEY
+BA_OK0 kezaeiv/sentences/commando/com_whatyougot
+BA_OK1 kezaeiv/sentences/commando/com_alreadythere
+BA_OK2 kezaeiv/sentences/commando/com_alright
+BA_OK3 kezaeiv/sentences/commando/com_dontbeshy
+BA_OK4 kezaeiv/sentences/commando/com_gottabefun
+BA_OK5 kezaeiv/sentences/commando/com_knockemdown
+BA_OK6 kezaeiv/sentences/commando/com_partystarted
+
+BA_WAIT0 kezaeiv/sentences/commando/com_roomservice
+BA_WAIT1 kezaeiv/sentences/commando/com_routine
+BA_WAIT2 kezaeiv/sentences/commando/com_dismissed
+BA_WAIT3 kezaeiv/sentences/commando/com_goodnight
+BA_WAIT4 kezaeiv/sentences/commando/com_later
+BA_WAIT5 kezaeiv/sentences/commando/com_okboss
+
+BA_HELLO0 kezaeiv/sentences/commando/com_yo
+BA_HELLO1 kezaeiv/sentences/commando/com_wherearethey
+BA_HELLO2 kezaeiv/sentences/commando/com_alrightwhatyou
+BA_HELLO3 kezaeiv/sentences/commando/com_toughtguy
+BA_HELLO4 kezaeiv/sentences/commando/com_targetpractice
+BA_HELLO5 kezaeiv/sentences/commando/com_sweet
+BA_HELLO6 kezaeiv/sentences/commando/com_missedsomething
+
+BA_QUESTION0 kezaeiv/null
+BA_QUESTION1 kezaeiv/null
+BA_QUESTION2 kezaeiv/null
+BA_QUESTION3 kezaeiv/null
+BA_QUESTION4 kezaeiv/null
+BA_QUESTION5 kezaeiv/null
+BA_QUESTION6 kezaeiv/null
+BA_QUESTION7 kezaeiv/null
+BA_QUESTION8 kezaeiv/null
+BA_QUESTION9 kezaeiv/null
+BA_QUESTION10 kezaeiv/null
+BA_QUESTION11 kezaeiv/null
+BA_QUESTION12 kezaeiv/null
+BA_QUESTION13 kezaeiv/null
+BA_QUESTION14 kezaeiv/null
+
+BA_ANSWER0 kezaeiv/null
+BA_ANSWER1 kezaeiv/null
+BA_ANSWER2 kezaeiv/null
+BA_ANSWER3 kezaeiv/null
+BA_ANSWER4 kezaeiv/null
+BA_ANSWER5 kezaeiv/null
+BA_ANSWER6 kezaeiv/null
+BA_ANSWER7 kezaeiv/null
+BA_ANSWER8 kezaeiv/null
+BA_ANSWER9 kezaeiv/null
+BA_ANSWER10 kezaeiv/null
+BA_ANSWER11 kezaeiv/null
+BA_ANSWER12 kezaeiv/null
+BA_ANSWER13 kezaeiv/null
+BA_ANSWER14 kezaeiv/null
+BA_ANSWER15 kezaeiv/null
+BA_ANSWER16 kezaeiv/null
+BA_ANSWER17 kezaeiv/null
+BA_ANSWER18 kezaeiv/null
+BA_ANSWER19 kezaeiv/null
+BA_ANSWER20 kezaeiv/null
+BA_ANSWER21 kezaeiv/null
+
+// player is staring at scientist
+BA_STARE0 kezaeiv/null
+BA_STARE1 kezaeiv/null
+BA_STARE2 kezaeiv/null
+BA_STARE3 kezaeiv/null
+
+BA_IDLE0 kezaeiv/sentences/commando/com_maids
+BA_IDLE1 kezaeiv/sentences/commando/com_loadnrock
+BA_IDLE2 kezaeiv/sentences/commando/com_leftstanding
+BA_IDLE3 kezaeiv/sentences/commando/com_runningstart
+BA_IDLE4 kezaeiv/sentences/commando/com_wherearethey
+BA_IDLE5 kezaeiv/sentences/commando/com_surpriseunderthetree
+BA_IDLE6 kezaeiv/sentences/commando/com_seewhatyougot
+BA_IDLE7 kezaeiv/sentences/commando/com_santacoming
+BA_IDLE8 kezaeiv/sentences/commando/com_keepitdeja
+BA_IDLE9 kezaeiv/sentences/commando/com_heartheplan
+BA_IDLE10 kezaeiv/sentences/commando/com_fishinbarrel
+
+BA_ATTACK0 kezaeiv/sentences/commando/com_gotapresentforya
+BA_ATTACK1 kezaeiv/sentences/commando/com_hesdone
+BA_ATTACK2 kezaeiv/sentences/commando/com_illputemdown
+BA_ATTACK3 kezaeiv/sentences/commando/com_keepcoming
+BA_ATTACK4 kezaeiv/sentences/commando/com_igotthis
+BA_ATTACK5 kezaeiv/sentences/commando/com_specialtreatment
+
+BA_HEAR0 kezaeiv/null
+BA_HEAR1 kezaeiv/null
+BA_HEAR2 kezaeiv/null
+
+BA_SMELL0 kezaeiv/null
+BA_SMELL1 kezaeiv/null
+BA_SMELL2 kezaeiv/null
+
+BA_CUREA kezaeiv/null
+BA_CUREB kezaeiv/null
+BA_CUREC kezaeiv/null
+
+BA_SCARED0 kezaeiv/null
+BA_SCARED1 kezaeiv/null
+
+BA_WOUND0 kezaeiv/null
+BA_WOUND1 kezaeiv/null
+BA_MORTAL0 kezaeiv/null
+
+// Predisaster Barney - No actual sound for this, but there is a reference to it in the code
+BA_PQUEST0 barney/_comma
+
+//If you shoot Barney:
+BA_SHOT0 kezaeiv/sentences/commando/com_ded9
+BA_SHOT1 kezaeiv/sentences/commando/com_ded5
+BA_SHOT2 kezaeiv/sentences/commando/com_ded10
+BA_SHOT3 kezaeiv/sentences/commando/com_ded5
+BA_SHOT4 kezaeiv/sentences/commando/com_ded9
+BA_SHOT5 kezaeiv/sentences/commando/com_ded10
+
+//When Barney’s really pissed at you:
+BA_MAD0 kezaeiv/sentences/commando/com_ded9 com_illputemdown
+BA_MAD1 kezaeiv/sentences/commando/com_ded5 com_hesdone
+BA_MAD2 kezaeiv/sentences/commando/com_ded10 com_gotyourpresent
+BA_MAD3 kezaeiv/sentences/commando/com_ded5 com_illputemdown
+BA_MAD4 kezaeiv/sentences/commando/com_ded9 com_toughtguy
+BA_MAD5 kezaeiv/sentences/commando/com_ded10 com_takelong
+BA_MAD6 kezaeiv/sentences/commando/com_ded9 com_sitdown
+
+//When Barney’s killed something
+BA_KILL0 kezaeiv/sentences/commando/com_hahaha
+BA_KILL1 kezaeiv/sentences/commando/com_lefthanded
+BA_KILL2 kezaeiv/sentences/commando/com_next
+BA_KILL3 kezaeiv/sentences/commando/com_ohyeah
+BA_KILL4 kezaeiv/sentences/commando/com_tooez
+BA_KILL5 kezaeiv/sentences/commando/com_sitdown
+BA_KILL6 kezaeiv/sentences/commando/com_forgetya
+
+//If you use Barney before the disaster
+BA_POK0 barney/ba_post
+BA_POK1 barney/ba_duty
+BA_POK2 barney/ba_raincheck
+BA_POK3 barney/ba_later
+
+// if barney can't follow you
+BA_STOP0 kezaeiv/sentences/commando/com_cya
+BA_STOP1 kezaeiv/sentences/commando/com_cya2
+BA_STOP2 kezaeiv/sentences/commando/com_later
