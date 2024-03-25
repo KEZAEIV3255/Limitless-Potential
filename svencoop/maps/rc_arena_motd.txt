@@ -1,2 +1,0 @@
-rc_arena by Valve
-Ricochet scripts by Meryilla

@@ -1,0 +1,12 @@
+"entity"
+{
+"classname" "trigger_once_mp"
+"maxhullsize" "1984 -2656 -888"
+"target" "percent_lock_1"
+"minhullsize" "1384 -3248 -1148"
+}
+"entity"
+{
+"classname" "multisource"
+"targetname" "percent_lock_1"
+}
